@@ -1,0 +1,6 @@
+# Frontend Environment Variables
+NEXT_PUBLIC_API_URL=https://api.fittribe.fitness
+NEXT_PUBLIC_SOCKET_URL=https://api.fittribe.fitness
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_51Q2kAoCFpfwvg3Qdh9sHKKzkbxqAF4O3obA1VR6lqWLt3NJJ89mB3EEwTc9VrJOq4bDdCZ9h0jT68SMN7CzDDxJO009uz1sGTW
+NEXT_PUBLIC_GOOGLE_CLIENT_ID=63061960826-8l6ki3v4cltkanimupd32f36abj6hdhb.apps.googleusercontent.com
+NEXT_PUBLIC_ZOOM_CLIENT_ID=GwoJsogdRWi_4VP1Om94Pw
